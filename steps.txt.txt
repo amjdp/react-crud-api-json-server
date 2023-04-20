@@ -1,0 +1,11 @@
+create app
+install packages
+
+remove unwanted files
+
+create db.json
+
+components - home, create, read, update - rfce
+
+Routing - Browser Router - App.js
+
