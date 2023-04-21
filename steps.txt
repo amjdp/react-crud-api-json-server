@@ -1,0 +1,23 @@
+https://docs.google.com/presentation/d/13G6pifD4Aj_4N3-wjExWIbORDynSbzzKrh4baoKylwM/edit#slide=id.g237214adeb1_0_33
+
+
+
+create app
+install packages
+
+remove unwanted files
+
+create db.json
+
+components - home, create, read, update - rfce
+
+Routing - Browser Router - App.js
+run
+
+
+json-server --watch db.json
+import bootstrap - App.js
+
+
+
+
