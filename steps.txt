@@ -1,3 +1,7 @@
+https://docs.google.com/presentation/d/13G6pifD4Aj_4N3-wjExWIbORDynSbzzKrh4baoKylwM/edit#slide=id.g237214adeb1_0_33
+
+
+
 create app
 install packages
 
@@ -13,5 +17,7 @@ run
 
 json-server --watch db.json
 import bootstrap - App.js
+
+
 
 
